@@ -1,6 +1,6 @@
-# Analisis-360-de-Clientes
+# 📊 Analisis-360-de-Clientes
 Análisis 360° de clientes y respuesta a campañas de marketing utilizando Python para limpieza de datos, modelado en Power BI con dimensiones optimizadas, y visualizaciones interactivas para segmentación, hábitos de compra y efectividad de campañas. Proyecto basado en dataset público de Kaggle, adaptado a un escenario empresarial real.
-# 📊 Análisis 360° de Clientes – Segmentación y Comportamiento
+# Análisis 360° de Clientes – Segmentación y Comportamiento
 
 ## 📌 Introducción
 Este proyecto presenta un análisis integral de clientes de una compañía ficticia de retail, con el objetivo de **predecir la probabilidad de respuesta a campañas de marketing** y **optimizar la segmentación** para maximizar el retorno de inversión publicitaria.  
