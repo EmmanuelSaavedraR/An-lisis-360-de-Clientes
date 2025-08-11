@@ -83,8 +83,7 @@ Clientes con mayor gasto acumulado en productos premium (vinos y oro) y compras 
 )
 
 ### Comportamiento
-![Comportamiento](<img width="1196" height="675" alt="image" src="https://github.com/user-attachments/assets/034fc8e1-083f-4ab2-8a87-69c328593e6d" />
-)
+![Comportamiento](customer-analytics-360-powerb/dashboard/powerbi_screenshots/comportamiento.png)
 
 ---
 
