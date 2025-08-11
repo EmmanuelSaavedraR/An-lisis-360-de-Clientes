@@ -79,8 +79,7 @@ Clientes con mayor gasto acumulado en productos premium (vinos y oro) y compras 
 )
 
 ### Campañas
-![Campañas](<img width="1198" height="675" alt="image" src="https://github.com/user-attachments/assets/8662c5b6-9e0b-49bf-a923-350ef473807f" />
-)
+![Campañas](customer-analytics-360-powerb/dashboard/powerbi_screenshots/campañas.png)
 
 ### Comportamiento
 ![Comportamiento](customer-analytics-360-powerb/dashboard/powerbi_screenshots/comportamiento.png)
