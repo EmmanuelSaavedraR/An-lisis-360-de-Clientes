@@ -75,13 +75,16 @@ Clientes con mayor gasto acumulado en productos premium (vinos y oro) y compras 
 ## 📷 Capturas de Dashboard
 
 ### Visión General
-![Visión General](a46e08fa-2ac0-4029-8edb-ccbb1023a7d1.png)
+![Visión General](<img width="1199" height="670" alt="image" src="https://github.com/user-attachments/assets/a3d951c0-841f-4fb6-960d-96f842dc3260" />
+)
 
 ### Campañas
-![Campañas](327f025e-7370-4cfa-9b8b-af2c5b2292d7.png)
+![Campañas](<img width="1198" height="675" alt="image" src="https://github.com/user-attachments/assets/8662c5b6-9e0b-49bf-a923-350ef473807f" />
+)
 
 ### Comportamiento
-![Comportamiento](ff3dfa25-40a5-4ddf-9bf4-2da3b0f1fe0b.png)
+![Comportamiento](<img width="1196" height="675" alt="image" src="https://github.com/user-attachments/assets/034fc8e1-083f-4ab2-8a87-69c328593e6d" />
+)
 
 ---
 
