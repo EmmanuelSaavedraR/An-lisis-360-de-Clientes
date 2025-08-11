@@ -1,0 +1,110 @@
+# 📊 Análisis 360° de Clientes y Estrategia de Campañas de Marketing
+
+## 1. Introducción
+Este proyecto analiza datos de clientes de una compañía ficticia de retail para **identificar patrones de consumo, segmentar perfiles y evaluar la efectividad de campañas de marketing**.  
+Se utilizó un dataset público de Kaggle, adaptado a un escenario empresarial real.
+
+Flujo de trabajo:
+1. Limpieza y preparación de datos en **Python/Pandas**.
+2. Creación de modelo de datos con **dimensiones en Power BI**.
+3. Diseño de **dashboards interactivos** para análisis y presentación ejecutiva.
+
+---
+
+## 2. Metodología
+
+### 2.1 Limpieza de datos (Python/Pandas)
+- Estandarización de formatos de texto y fecha.
+- Tratamiento de valores nulos.
+- Codificación de variables categóricas.
+- Creación de variables derivadas (ej. generación de cliente).
+- Exportación de dataset limpio a `.csv` para Power BI.
+
+### 2.2 Modelado de datos (Power BI)
+- Separación en **tabla de hechos** y **dimensiones**.
+- Relaciones y claves primarias/foráneas.
+- Cálculos DAX para KPIs clave:
+  - Tasa de respuesta por campaña
+  - Gasto promedio por categoría
+  - Segmentación por generación e ingresos
+
+### 2.3 Visualización
+Tres páginas principales:
+1. **Informe General** – Resumen ejecutivo
+2. **Campañas** – Rendimiento y segmentación
+3. **Comportamiento de Clientes** – Hábitos y gasto por segmento
+
+---
+
+## 3. Resultados principales
+
+### Página 1 – Informe General
+- **Ingreso promedio:** $52,247
+- **Gasto promedio:** $607.08
+- **Tasa de respuesta general:** 5.97%
+- **Canal líder:** Tienda física (38.98%)
+- **Generación más numerosa:** Gen X (48%), aunque la Generación Silenciosa tiene el gasto promedio más alto ($1,005) siendo solo el 1% de la base.
+
+---
+
+### Página 2 – Campañas
+- **Tasa de respuesta promedio campañas:** 7.36%
+- **Mejor campaña:** #4 (7.40% aceptación)
+- **Segmento top:** Generación Silenciosa (35.28% aceptación)
+- Ingresos bajos responden mejor a campañas 1–3, ingresos altos destacan en campañas premium como la #5.
+
+---
+
+### Página 3 – Comportamiento de Clientes
+- **Frecuencia de compra:**
+  - Ingresos muy bajos: 2.18
+  - Ingresos muy altos: 5.04
+- **Visitas web:**
+  - Ingresos bajos: 8.54 (más digitales)
+  - Generación Silenciosa: 3.57 (menos digitales)
+- Categorías líderes en gasto: Vinos, carne, oro.
+
+---
+
+## 4. Iniciativas estratégicas
+
+### 4.1 Estrategia de campañas y segmentación
+- **Ingresos bajos:** Promociones con cupones y descuentos vía web, aprovechando su alto tráfico online (8.54 visitas promedio).
+- **Ingresos altos:** Campañas premium (paquetes exclusivos, experiencias VIP), usando canales físicos y catálogo.
+- **Generación Silenciosa:** Programas de fidelización y atención personalizada para maximizar su alto ticket promedio, a pesar de su bajo volumen.
+- Personalizar campañas según canal preferido por generación para mejorar relevancia y tasa de respuesta.
+
+### 4.2 Canales de venta
+- Enfocar campañas online en segmentos con alto uso de web (ingresos bajos y millennials).
+- Desarrollar experiencias en tienda física para Baby Boomers y Generación Silenciosa que incrementen el ticket promedio.
+- Introducir nuevos productos premium en tienda física y catálogo, dirigidos a clientes de ingresos altos.
+
+### 4.3 Comportamiento de compra
+- **Ingresos bajos y medios:** Ofertas por volumen y suscripciones para aumentar frecuencia de compra.
+- **Ingresos altos:** Promociones exclusivas para mantener su alta frecuencia (5.04) y reforzar lealtad.
+- Usar categorías de alto gasto (vinos, carne) como gancho en campañas cruzadas para otros productos.
+
+### 4.4 Valor del cliente (Customer Lifetime Value)
+- Identificar y retener clientes con alto CLV (alto gasto y frecuencia) con programas de fidelidad premium.
+- Convertir clientes de gasto medio a alto mediante upselling y bundles premium.
+- Focalizar inversión en segmentos que combinan buen volumen con alto margen.
+
+### 4.5 Optimización de recursos
+- Aumentar presupuesto en campañas de alto ROI según aceptación por segmento.
+- Expandir campañas exitosas en segmentos pequeños pero rentables (Generación Silenciosa) cuando el margen lo justifique.
+- Revisar y optimizar campañas con baja respuesta para reasignar recursos.
+
+---
+
+## 5. Conclusiones
+- La combinación de segmentación por generación e ingresos permite diseñar campañas altamente efectivas.
+- Los canales de venta deben alinearse al perfil digital o presencial del segmento.
+- La personalización basada en comportamiento y categorías clave maximiza la probabilidad de conversión.
+- Existe un potencial significativo en la retención y optimización de clientes de alto valor.
+
+---
+
+## 6. Recursos
+- **Dashboard interactivo en Power BI:** [Enlace aquí](URL_DE_TU_DASHBOARD)
+- **Dataset original:** [Kaggle – Customer Personality Analysis](https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis)
+
